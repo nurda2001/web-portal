@@ -1,4 +1,4 @@
-# web-portal
+# englishinaktau
 
 ## Project setup
 ```

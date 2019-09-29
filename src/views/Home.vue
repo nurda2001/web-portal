@@ -1,13 +1,14 @@
 <template>
-  <HelloWorld />
+	<v-container>
+         <v-img  src="https://www.freepnglogos.com/uploads/eagles-png-logo/eagle-sports-png-logos--0.png"></v-img>
+</v-container>
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
 
-export default {
-  components: {
-    HelloWorld,
-  },
-};
 </script>
+
+<style scoped>
+
+
+</style>
